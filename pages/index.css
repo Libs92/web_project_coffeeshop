@@ -12,7 +12,7 @@
   justify-content: space-between;
 }
 
-.header__logo {
+.nav__logo {
   position: relative;
   height: 39px;
   width: 105px;
@@ -21,7 +21,7 @@
   margin-bottom: 20px;
 }
 
-.nav__list {
+.nav__links {
   display: flex;
   justify-content: space-between;
   column-gap: normal;
@@ -101,7 +101,7 @@
   margin-right: 0;
 }
 
-.header__footer {
+.header-footer {
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -110,7 +110,7 @@
   color: #838383;
 }
 
-.header__footer-list {
+.header-footer__list {
   display: flex;
   flex-direction: column;
   position: absolute;
@@ -118,14 +118,14 @@
   bottom: 40px;
   padding: 0;
 }
-.header__footer-item {
+.header-footer__item {
   list-style: none;
 }
-.footer__paragraph {
+.header-footer__paragraphph {
   margin-top: 0;
   margin-bottom: 0;
 }
-.header__footer_address {
+.header-footer__address {
   display: flex;
   margin-top: auto;
   position: absolute;
