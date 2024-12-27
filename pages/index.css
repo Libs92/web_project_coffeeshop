@@ -13,6 +13,7 @@
 }
 
 .nav__logo {
+  display: flex;
   position: relative;
   height: 39px;
   width: 105px;
@@ -70,7 +71,7 @@
   margin-top: 183px;
   max-width: 709px;
   margin-left: 80px;
-  margin-bottom: auto;
+  margin-bottom: 0;
 }
 .header__span {
   font-family: "Inter", sans-serif;
@@ -99,6 +100,7 @@
   height: 80px;
   margin-left: 80px;
   margin-right: 0;
+  margin-top: 28px;
 }
 
 .header-footer {
@@ -121,7 +123,7 @@
 .header-footer__item {
   list-style: none;
 }
-.header-footer__paragraphph {
+.header-footer__paragraph {
   margin-top: 0;
   margin-bottom: 0;
 }
