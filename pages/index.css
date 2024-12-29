@@ -82,7 +82,7 @@
   letter-spacing: -1px;
   margin-left: 80px;
 }
-.header__description {
+.header__span-accent {
   font-family: "Noto Serif ", serif;
   font-size: 58px;
   font-style: italic;
@@ -90,7 +90,7 @@
   color: #2f80ed;
   line-height: 72px;
 }
-.header__span-accent {
+.header__description {
   font-family: "Noto Serif ", serif;
   font-style: normal;
   font-weight: normal;
