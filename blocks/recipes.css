@@ -4,6 +4,14 @@
   justify-content: space-around;
   color: #ffffff;
   height: 100%;
+  background-color: #0a2750;
+  background-image: url(../images/background_recipes.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  min-height: 720px;
+  max-height: 800px;
 }
 .recipes__title {
   font-family: "Inter";
